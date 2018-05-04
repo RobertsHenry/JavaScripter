@@ -1,0 +1,1 @@
+The BookProgram program simulates a primitive library where you can add books to the catalouge, remove books from the catalouge, and check to see if books are in the catalouge. Each book requires a title, author, and page number. Can be used to track personal library to see if you have a book without having to check through a whole large bookshelf of books.
